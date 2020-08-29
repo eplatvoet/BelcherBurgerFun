@@ -1,7 +1,12 @@
+/* body{
+  background-image: url("https://toppng.com/uploads/preview/bob-with-a-burger-bobs-burgers-bob-11563209358oqnxtcl6wo.png");
+  background-color: #82E0AA,
+} */
+
 li {
     padding: 5px;
     margin: 5px;
-    background: #faebd7;
+    background: whitesmoke;
   }
   
   .label {
@@ -11,7 +16,7 @@ li {
   .create-update-form {
     padding: 5px;
     margin: 5px;
-    background: aqua;
+    background: yellow;
   }
   
   .form-group {
