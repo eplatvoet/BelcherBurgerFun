@@ -1,19 +1,5 @@
 # Burgers
 
-# Node Express Handlebars
-
-### Overview
-
-In this assignment, you'll create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). Be sure to follow the MVC design pattern; use Node and MySQL to query and route data in your app, and Handlebars to generate your HTML.
-
-### Read This
-
-When trying to connect remotely to your Heroku database on an open network such as a coffee shop, library, or even your University WiFi, it will be blocked. If you are experiencing a Heroku connection error, this could be why.
-
-### Important
-
-* **This assignment must be deployed.** Be sure to utilize the [MYSQL Heroku Deployment Guide](../../03-Supplemental/MySQLHerokuDeploymentProcess.pdf) in order to deploy your assignment.
-
 ### Before You Begin
 
 * Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.
@@ -244,3 +230,39 @@ If you have any questions about this project or the material we have covered, pl
 When trying to connect remotely to your Heroku database on an open network such as a coffee shop, library, or even your University WiFi, it will be blocked. If you are experiencing a Heroku connection error, this could be why.
 
 **Good Luck!**
+
+
+ 
+  # ![Git Hub license](https://img.shields.io/badge/License-Unlicensed-blue.svg)
+
+  ## TABLE OF CONTENTS
+  - [DESCRIPTION](#DESCRIPTION)  
+  - [LICENSE](#LICENSE)  
+  - [INSTALLATION](#INSTALLATION)  
+  - [TESTS](#TESTS)  
+  - [QUESTIONS](#QUESTIONS)  
+  - [CONTRIBUTIONS](#CONTRIBUTIONS)
+  - [LINKS](#LINKS)  
+  - [SCREENSHOTS](#SCREENSHOTS)  
+
+  ## DESCRIPTION
+  Description goes here ...
+
+  ## LICENSE
+  Unlicensed
+  
+  ## INSTALLATION
+  - npm i to install all dependencies
+  
+  ## TESTING
+  Testing info goes here ...
+  
+  ## QUESTIONS  
+  My GitHub username is *eplatvoet* & my profile can be found [here](https://github.com/eplatvoet) 
+  
+  ## CONTRIBUTIONS 
+  I can be reached at erin.didomenico520@gmail.com if you have any other questions about this repository.
+  
+  ## LINKS
+
+  ## SCREENSHOTS
