@@ -1,17 +1,6 @@
-# Burgers
+# Belcher Burger Fun
 
-### Minimum Requirements
-
-Attempt to complete homework assignment as described in instructions. If unable to complete certain portions, please pseudocode these portions to describe what remains to be completed. Hosting on Heroku and adding a README.md are required for this homework. In addition, add this homework to your portfolio, more information can be found below.
- 
-- - -
-### Add To Your Portfolio
-
-After completing the homework please add the piece to your portfolio. Make sure to add a link to your updated portfolio in the comments section of your homework so the TAs can easily ensure you completed this step when they are grading the assignment. To receive an 'A' on any assignment, you must link to it from your portfolio.
-
-- - -
- 
-  # ![Git Hub license](https://img.shields.io/badge/License-Unlicensed-blue.svg)
+  ## ![Git Hub license](https://img.shields.io/badge/License-Unlicensed-blue.svg)
 
   ## TABLE OF CONTENTS
   - [DESCRIPTION](#DESCRIPTION)  
@@ -23,7 +12,15 @@ After completing the homework please add the piece to your portfolio. Make sure 
   - [SCREENSHOTS](#SCREENSHOTS)  
 
   ## DESCRIPTION
-  For this assignment, we were instructed to create a "Burger" app where a user would submit the burger of their choice to be added to the "cook line". Once the burger is cooked, it can be devoured 
+  For this assignment, we were instructed to create a "Burger" app where a user would submit the burger of their choice to be added to the "burgers to cook list". I also added a "rush" option to send the burger immediately to the ready side. Once the burger is added to the list, the user can chose in what order they send it to the "ready to serve" column. The user can "re-order" the burger and send it back to the "to cook" list, or they can delete the burger.  
+  ``````````````````````
+Technologies Used:
+  - JavaScript
+  - CSS 
+  - express
+  - handlebars
+  - MySQL
+   ``````````````````````
 
   ## LICENSE
   Unlicensed
@@ -39,5 +36,7 @@ After completing the homework please add the piece to your portfolio. Make sure 
   I can be reached at erin.didomenico520@gmail.com if you have any other questions about this repository.
   
   ## LINKS
+  https://github.com/eplatvoet/Burgers  
 
   ## SCREENSHOTS
+![screenshot](screenshots/screenshot.png)  
