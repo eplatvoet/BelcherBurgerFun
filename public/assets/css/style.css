@@ -1,12 +1,35 @@
-/* body{
-  background-image: url("https://toppng.com/uploads/preview/bob-with-a-burger-bobs-burgers-bob-11563209358oqnxtcl6wo.png");
-  background-color: #82E0AA,
-} */
+body {
+  background-color: #80DEEA;
+  font-family: 'Fredoka One', cursive;
+  color: white;
+}
+
+.row {
+  background-color: tomato;
+}
+
+.title {
+  justify-content: center;
+}
+
+h1, h2 {
+  color: #FFF176;
+}
+.background{
+  background-image: url("bbbackground.png");
+  background-position: right;
+  background-repeat: no-repeat;
+}
+
+
+button {
+  font-size: 12px;
+}
 
 li {
     padding: 5px;
     margin: 5px;
-    background: whitesmoke;
+    background: #58D68D;
   }
   
   .label {
@@ -16,7 +39,7 @@ li {
   .create-update-form {
     padding: 5px;
     margin: 5px;
-    background: yellow;
+    background: #58D68D;
   }
   
   .form-group {
