@@ -31,7 +31,9 @@ router.put("/api/burgers/:id", function(req, res) {
   var condition = "id = " + req.params.id;
 
   console.log("condition", condition);
+  console.log(req.params)
 
+  console.log("update burgers burgersController")
   burger.update({
     cook: req.body.cook
   }, condition, function(result) {
