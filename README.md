@@ -28,7 +28,6 @@ Technologies Used:
   ## INSTALLATION
   - npm i to install all dependencies
   
-  
   ## QUESTIONS  
   My GitHub username is *eplatvoet* & my profile can be found [here](https://github.com/eplatvoet) 
   
@@ -37,6 +36,8 @@ Technologies Used:
   
   ## LINKS
   https://github.com/eplatvoet/Burgers  
+  https://belcherburgerfun.herokuapp.com/  
 
   ## SCREENSHOTS
 ![screenshot](screenshots/screenshot.png)  
+![screencastify](screenshots/BelcherBurgerFun.gif)  
